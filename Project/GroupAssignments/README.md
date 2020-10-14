@@ -22,11 +22,13 @@ Aftering mapping out these ADUs we would want to overlay it on the gentrificatio
 1. Census Housing Units vs. Parcel Data Housing Units
 
     a. https://www.socialexplorer.com/ 
+    
     b. https://portal.assessor.lacounty.gov/
     
 2. Craiglist and Facebook Marketplace
 
     a. https://losangeles.craigslist.org/ 
+    
     b.https://www.facebook.com/marketplace/la/ 
     
 3. Urban Displacement Gentrification Risk Data
