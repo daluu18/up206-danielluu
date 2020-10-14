@@ -11,7 +11,7 @@ Accessory Dwelling Units (ADUs) are secondary units that provide additional, mor
 
 The spatial time of economic crisis and the COVID-19 pandemic is important because it pushes the need for housing affordability. ADU’s can prove to be a viable, effective method to addressing the ongoing housing crisis. In order to analyze the impacts of ADUs, this project will performa comparative analysis between two case studies: Long Beach and the South Bay*. We are interested in examining the impact of ADUs in lower-income communities to further understand its potential for vulnerable BIPOC communities that are currently experiencing high rent burden and high gentrification risk. These analyses will play an important role in developing some foundational reports for our long-term client project.
  
-* We intend to choose a specific city within the South Bay; however, we don’t really know what data is available out there for each city. Having worked as a Planning Technician for the City of Gardena, many South Bay Cities do not have information on ADUs readily available. 
+   - We intend to choose a specific city within the South Bay; however, we don’t really know what data is available out there for each city. Having worked as a Planning Technician for the City of Gardena, many South Bay Cities do not have information on ADUs readily available. 
 
 **Intended Analysis & Data Source**
 
@@ -21,23 +21,23 @@ Aftering mapping out these ADUs we would want to overlay it on the gentrificatio
 
 1. Census Housing Units vs. Parcel Data Housing Units
 
-    a. https://www.socialexplorer.com/ 
+     a. https://www.socialexplorer.com/ 
     
-    b. https://portal.assessor.lacounty.gov/
+     b. https://portal.assessor.lacounty.gov/
     
 2. Craiglist and Facebook Marketplace
 
-    a. https://losangeles.craigslist.org/ 
+     a. https://losangeles.craigslist.org/ 
     
-    b.https://www.facebook.com/marketplace/la/ 
+     b.https://www.facebook.com/marketplace/la/ 
     
 3. Urban Displacement Gentrification Risk Data
 
-    a. https://www.urbandisplacement.org/storymaps/socal 
+     a. https://www.urbandisplacement.org/storymaps/socal 
     
 4. COVID-19 Impact Data
 
-    a. https://knowledge.luskin.ucla.edu/maps/ 
+     a. https://knowledge.luskin.ucla.edu/maps/ 
 
 **Hypothesis**
 
