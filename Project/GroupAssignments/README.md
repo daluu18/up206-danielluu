@@ -20,14 +20,21 @@ One of the primary components for this project is to simply track where ADUs are
 Aftering mapping out these ADUs we would want to overlay it on the gentrification risk data from Center for Neighborhood Knowledge to determine if there is any correlation between the two statistical variables. From there, we can determine if ADUs have any relationship with gentrification and displacement to decide what additional data may be needed for further analysis. As a supplemental assessment, overlaying the ADU data with COVID-19 impact data will help show the relationship between rent impact during the pandemic and ADUs’ possible gentrification and displacement mitigations. Data sources are linked below:
 
 1. Census Housing Units vs. Parcel Data Housing Units
+
     a. https://www.socialexplorer.com/ 
     b. https://portal.assessor.lacounty.gov/
+    
 2. Craiglist and Facebook Marketplace
+
     a. https://losangeles.craigslist.org/ 
     b.https://www.facebook.com/marketplace/la/ 
+    
 3. Urban Displacement Gentrification Risk Data
+
     a. https://www.urbandisplacement.org/storymaps/socal 
+    
 4. COVID-19 Impact Data
+
     a. https://knowledge.luskin.ucla.edu/maps/ 
 
 **Hypothesis**
