@@ -1,0 +1,11 @@
+## Ben Welsh from the Los Angeles Times, on Friday at 10am
+
+**Summary**
+
+This seminar was interesting because Ben talked about his path to working on journalism projects with the integration of data science. Some interesting projects Ben got to lead included the tracking COVID-19 data in California, bike stop police shootings, people wearing masks in California, and the Chicano moratorium. These projects are interesting to me because it uses data to ultimately tell a story that is more comprehensible to the general public. Ben highlighted the importance of this skill because coding is complex and the skills will just develop over time through practice but being able to translate this information into something digestible requires detail in craft.
+
+Ben talked about how the LA Times is working on this type of journalism model which follows similarly a mixed methods approach in research. He does face some challenges with disagreements when producing these projects but when people are interested in pursuing a project, the outcomes are produced. Afterward the presentation, I started looking at the data and maps produced and it is helpful in informing the public with data backing it up which is important in this current political moment. I am starting to see how research is part of the daily tasks of possibly every career path because these articles processed resemble a research report but follows a different design and look. 
+
+**Reflection**
+
+Through this seminar, I am starting to notice the shift in all careers using the powers of data science. For example, some public health professions are using coding to build applications that can recommend healthier food and recipe options when people choose unhealthy foods. This application follows a similar algorithm to how social media use our use data to tailor advertisements to our preferences. Data science is an important part to urban planning research but I am curious to how coding can be used to produce applications and more to address immediate issues like housing affordability. For example, coding can help produce a community tool for people to use VR to help with community visioning processes. This can help document preferences, needs and priorities within the community to better inform future developments in the city.
